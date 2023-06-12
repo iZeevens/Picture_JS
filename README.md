@@ -1,1 +1,2 @@
-<h1> Тестировалась на MAMP <h1>
+<h1> Picture Project </h1>
+  <p> Тестировалось на MAMP </p>
